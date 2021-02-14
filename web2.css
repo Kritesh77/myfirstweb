@@ -1,0 +1,120 @@
+
+.sec1{background-size: 100% 100%;
+      background-repeat: no-repeat;
+      background-image:url("Pictures/bg/2.png");
+      overflow: hidden;}
+
+
+.sec1,.sec2{height:100vh;}
+
+
+
+.sec1pic1,.sec1pic2,.sec1pic3
+,.sec1pic4,.sec1pic5,.sec1pic6
+,.sec1pic7,.sec1pic8,.sec1pic9,.sec1pic10{border: 1px solid black;
+                              background-color: white;
+                              height: 110.03px;width: 160.09px;
+                              display: inline-block;
+                              margin-left:41px;margin-top: 50px;
+                              border-radius: 10px;}
+
+.sec1pic1{margin-left: -200px;
+          background-image: url("Pictures/secpic/1.png");
+          background-size: 100% 100%;
+          transition:1s ease;
+          opacity: 0.8;}
+
+.sec1pic1:hover{opacity: 1;
+                height: 347px;width:505px;}
+
+.sec1pic2{background-image: url("Pictures/secpic/2.png");
+          background-size: 100% 100%;
+          transition:1s ease;
+          opacity: 0.8s;position: relative;}
+
+.sec1pic2:hover{opacity: 1;
+                height: 347px;width:505px;}
+
+.sec1pic3{background-image: url("Pictures/secpic/3.png");
+          background-size: 100% 100%;
+          transition:1s ease;
+          opacity: 0.8;}
+
+.sec1pic3:hover{opacity: 1;
+                height: 347px;width:505px;}
+
+.sec1pic4{background-image: url("Pictures/secpic/4.png");
+          background-size: 100% 100%;
+          transition:1s ease;
+          opacity: 0.8s;}
+
+.sec1pic4:hover{opacity: 1;
+                height: 347px;width:505px;}
+
+.sec1pic5{background-image: url("Pictures/secpic/5.png");
+          background-size: 100% 100%;
+          transition:1s ease;
+            opacity: 0.8s;}
+
+.sec1pic5:hover{opacity: 1;
+                height: 347px;width:505px;}
+
+.sec1pic6{margin-left:84px;
+          background-image: url("Pictures/secpic/6.png");
+          background-size: 100% 100%;
+          transition:1s ease;
+          opacity: 0.8s;}
+
+.sec1pic6:hover{opacity: 1;
+                height: 347px;width:505px;}
+
+.sec1pic7{background-image: url("Pictures/secpic/7.png");
+          background-size: 100% 100%;
+          transition:1s ease;
+          opacity: 0.8s;}
+
+.sec1pic7:hover{opacity: 1;
+                height: 347px;width:505px;}
+
+.sec1pic8{background-image: url("Pictures/secpic/8.png");
+          background-size: 100% 100%;
+          transition:1s ease;
+          opacity: 0.8s;}
+
+.sec1pic8:hover{opacity: 1;
+                height: 347px;width:505px;}
+
+.sec1pic9{background-image: url("Pictures/secpic/9.png");
+          background-size: 100% 100%;
+          transition:1s ease;
+          opacity: 0.8s;}
+
+.sec1pic9:hover{opacity: 1;
+                height: 347px;width:505px;}
+
+.sec1pic10{background-image: url("Pictures/secpic/10.png");
+          background-size: 100% 100%;
+          transition:1s ease;
+          opacity: 0.8s;}
+
+.sec1pic10:hover{opacity: 1;
+                height: 347px;width:505px;}
+
+.txt{margin-left: 380px;margin-top: 20px;
+     font-size: 115px;
+     font-family: "Rancho";
+     color:#3C243C;
+     font-weight: lighter;
+     }
+
+.sec2{height: 100vh;background-position: center;
+      background-repeat: no-repeat;
+      background-image:url("Pictures/bg/4.png");
+      }
+
+.sec2pic1{border: 1px solid black;
+          background-color: white;
+          height: 110.03px;width: 160.09px;
+          display: inline-block;
+          margin-left: 1150px;
+          border-radius: 10px; }

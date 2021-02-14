@@ -1,0 +1,87 @@
+
+*{margin: 0;padding: 0;}
+body{height: 768px;width: 1366px;}
+.sec1{height: 100vh;
+      background-image:url('Pictures/bg/bg1.png');
+      background-repeat:no-repeat;
+      background-size:100% 100%;
+      background-position:center;}
+
+.sec1info{height:411px;
+      width:411px;
+      padding:3px 15px;
+      margin-top:94px;margin-left:61px;}
+
+ .sec1t1{font-size: 77px;
+        color:#FFA935;
+        text-transform: uppercase;
+        font-family:"rancho";
+        margin:0;
+        text-shadow: 2px 2px 4px #B5B5B5;}
+
+ .sec1t2{font-size: 85px;
+        color:#3B253C;
+        font-family:"rancho";
+        text-transform: uppercase;
+        line-height: 44px;
+        text-shadow: 2px 2px 4px #B5B5B5;}
+
+div p{font-size: 17px;
+       color:#3B253C;
+       font-family:"gudea";
+       line-height: 30px;
+       padding-top: 15px;
+       text-shadow: 1px 2px 4px #D4D4D4;}
+
+.button1{border-radius: 26px;
+         width:219px;height: 46px;
+         background-color: #FFA834;
+         border:0px;
+         text-transform: uppercase;
+         font-size: 27px;
+         font-family: "Gudea";
+         color:white;
+         font-weight: bold;
+         letter-spacing: 1px;
+         position: relative;top:20px;
+         box-shadow: 1px 3px 6px grey;}
+
+.sec2{background-image: url("Pictures/bg/3.png");
+        background-repeat:no-repeat;
+        height: 100vh;
+        }
+
+.sec2h1{position: relative;top:37px;left:814px;
+        font-family: "rancho";
+        font-size:66px;
+        color:#3C243C;
+        text-shadow: 0px 2px 4px grey;}
+
+.sec2box1{position: relative;left:856px;top:45px;
+          height:499px;width: 413px;
+          background-color: #EFEFEF;
+          border-radius: 3px;
+          border:1px dotted grey;
+          box-shadow: 1px 3px 6px grey;
+         }
+
+.sec2input{margin-top: 30px;margin-left: 29px;
+           height: 56px;width: 342px;padding-left: 14px;
+           font-family: "Gudea";
+           font-size: 18px;
+           font-style: italic;
+           }
+
+.sec2but1{position: absolute;top:476px;right: 95px;
+           border-radius: 26px;
+           width:219px;height: 46px;
+           background-color: #FFA834;
+           border:0px;
+           text-transform: uppercase;
+           font-size: 27px;
+           font-family: "Gudea";
+           color:white;
+           font-weight: bold;
+           letter-spacing: 1px;
+           box-shadow: 1px 3px 6px grey;
+          }
